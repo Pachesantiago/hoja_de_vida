@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea; /* Color de fondo elegante */
+    margin: 0;
+    padding: 20px; /* Espacio alrededor del contenido */
+}
+
+.container {
+    max-width: 800px; /* Ancho máximo de la hoja de vida */
+    margin: auto; /* Centra la hoja de vida */
+    background: white; /* Fondo blanco */
+    padding: 20px; /* Espacio interior */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+h1 {
+    text-align: center; /* Centra el nombre */
+    color: #4a90e2; /* Color del encabezado */
+    margin-bottom: 10px; /* Espacio debajo del encabezado */
+}
+
+img {
+    display: block; /* Centra la imagen */
+    margin: 20px auto; /* Espacio automático para centrar */
+    width: 150px; /* Ancho de la imagen cuadrada */
+    height: 150px; /* Alto de la imagen cuadrada */
+    border-radius: 5px; /* Bordes levemente redondeados */
+}
+
+h2 {
+    color: #333; /* Color de los subtítulos */
+    margin-top: 20px; /* Espacio encima del subtítulo */
+}
+
+ul {
+    list-style-type: none; /* Quita los puntos de la lista */
+    padding: 0; /* Elimina el padding por defecto */
+}
+
+li {
+    margin: 5px 0; /* Espacio entre elementos de la lista */
+    padding: 10px; /* Espacio dentro de cada elemento */
+    background: #e0e0e0; /* Fondo gris claro */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+p {
+    margin: 10px 0; /* Espacio vertical entre párrafos */
+}
+
+strong {
+    color: #4a90e2; /* Color para los elementos destacados */
+}
